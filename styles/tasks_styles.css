@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(15, 15, 15);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    transition: 1s;
+    margin-top: -70px;
+    margin-bottom: 0px;
+}
+
+h1:hover {
+    color: rgb(255, 155, 0);
+}
+
+button {
+    background: none;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    transition: 200ms;
+    margin-top: 400px;
+    margin-left: 700px;
+}
+
+button:hover {
+    color: rgb(255, 155, 0);
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    transition: 200ms;
+}
+
+button:active {
+    color: rgb(255, 255, 0);
+}
