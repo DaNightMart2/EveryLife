@@ -22,8 +22,8 @@ button {
     color: rgb(255, 255, 255);
     font-size: 50px;
     transition: 1s;
-    margin-top: 400px;
-    margin-left: 700px;
+    margin-top: 50vh;
+    margin-left: 25ch;
     opacity: 0;
 }
 
