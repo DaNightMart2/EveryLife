@@ -15,8 +15,7 @@ h1:hover {
     color: rgb(255, 225, 155);
 }
 
-button {
-    position: absolute;
+button {.
     background: none;
     border: none;
     color: rgb(255, 255, 255);
